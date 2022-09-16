@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/15924287/190566448-587194cd-ebd0-487f-9472-8c973c156a6b.png)
+
 # ChipManufacturing [Intel video](https://www.youtube.com/watch?v=_VMYPLXnd7E)
 ![image](https://user-images.githubusercontent.com/15924287/190554411-bfedb99a-5dfa-42cb-a433-a583f109d56f.png)
 
