@@ -19,6 +19,7 @@ It is a specialised plastic enclosure designed to hold silicon wafers securely a
 
 
 ## 3. Material Deposition
+coat a wafer with a photographic chemical that hardens when exposed to light
 ## 4. Photolithographgy光刻
 ## 5. Ion Implantation
 ## 6. Etching
